@@ -64,7 +64,7 @@
             "coin": null,
             "url": "stratum+tcp://asia.flockpool.com:5555",
             "user": "RN6oEyMtnaRtT7sDLm2N7w8caJguYoNZDa.minipck",
-            "pass": "01784204527=abbu",
+            "pass": "main-ta",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
