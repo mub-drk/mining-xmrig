@@ -1,1 +1,1 @@
-./xmrig -o pool.supportxmr.com:443 -u 8AWYSJJh3GTNVD34exWFKBeDdvhFtFFahdL6okLmuFTkFbYiAs6JtXCWQZw4r4Y7rNcT2jB2aKrb26pjLYsuE6obLnULufm -k --tls -p mini
+xmrig -o pool.supportxmr.com:443 -u 8AWYSJJh3GTNVD34exWFKBeDdvhFtFFahdL6okLmuFTkFbYiAs6JtXCWQZw4r4Y7rNcT2jB2aKrb26pjLYsuE6obLnULufm -k --tls -p mini
