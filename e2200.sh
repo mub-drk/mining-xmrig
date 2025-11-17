@@ -1,6 +1,1 @@
-sudo pacman -S base-devel cmake git
-git clone https://github.com/xmrig/xmrig.git
-cd xmrig
-mkdir build && cd build
-cmake .. -DWITH_AVX=OFF -DWITH_AVX2=OFF
-make
+xmrig -o pool.supportxmr.com:3333 -u YOUR_WALLET_ADDRESS -p x --randomx-mode=light --randomx-init-avx2=0 --cpu-max-threads-hint=95
